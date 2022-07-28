@@ -7,7 +7,7 @@ from tinkoff.invest import CandleInterval, Client
 from tinkoff.invest.utils import now
 
 # TOKEN = os.environ["INVEST_TOKEN"]
-TOKEN = 't.T7QPdost6VCLKh_Q13U-9yCfRSQ9NbrsOyUpTeFXJJHbKsbM5FEfcdftW6cBztjCyqsjaDBis7vwKatVqo4pKA'
+TOKEN = 'INSERT_YOUR_TOKEN_HERE'
 
 # 'BBG004730N88' - SBER
 # 'BBG004731032' - LKOH
